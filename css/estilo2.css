@@ -1,0 +1,28 @@
+*{
+    margin: 5px;
+    padding: 5px;
+}
+body{
+   background-image: url(../imagenes/fondo2.jpg);
+    font-family: Century Gothic;
+    font-size: 20px;
+    text-align: justify;
+    border-radius: 15px;
+}
+img{
+        width: 30%;
+}
+h3{
+    text-align: center;
+    font-size: 40px;
+    font-family: monospace;
+    color: royalblue;
+}
+video{
+    width:50%;
+}
+table{
+    border: 2px;
+    width: 100%;
+    border-color: darkblue;
+}
